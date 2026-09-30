@@ -20,17 +20,13 @@ body {
   scroll-behavior: smooth;
 }
 
-
-
-
-
 header {
+  background: var(--lightpink);
+  padding: 20px, 10%;
   display: Flex;
   justify-content: space-between;
   align-items: center;
   position: sticky;
   top: 0;
-  z-index: 10;
-  box-shadow: 0 2px 15px #00000008;
-  background: #FFCDB2;
+  z-index: 10;   
 }
