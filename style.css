@@ -3,12 +3,21 @@
   --darkblue: #00F7FF;
   --lightpink: #FF7DB0;
   --darkpink: #FF0087;
+  --text: #40343b;
 }
 
 * {
   margin: auto;
   padding: 0;
   box-sizing: border-box; 
+}
+
+body {
+  font-family: verdana, sans-serif;
+  background: var(--lightblue);
+  color: var(--text);
+  line-height: 1.7;
+  scroll-behavior: smooth;
 }
 
 
