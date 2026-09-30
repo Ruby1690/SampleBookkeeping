@@ -1,5 +1,5 @@
 :root {
-  --lightblue: #B0FFFA;
+  --background: #FBEFEF;
   --darkblue: #00F7FF;
   --lightpink: #FF7DB0;
   --darkpink: #FF0087;
@@ -14,7 +14,7 @@
 
 body {
   font-family: verdana, sans-serif;
-  background: var(--lightblue);
+  background: var(--background);
   color: var(--text);
   line-height: 1.7;
   scroll-behavior: smooth;
