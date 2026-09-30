@@ -1,3 +1,20 @@
+:root {
+  --lightblue: #B0FFFA;
+  --darkblue: #00F7FF;
+  --lightpink: #FF7DB0;
+  --darkpink: #FF0087;
+}
+
+* {
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box; 
+  {
+
+
+
+
+
 header {
   display: Flex;
   justify-content: space-between;
