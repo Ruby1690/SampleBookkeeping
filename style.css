@@ -21,7 +21,6 @@ body {
 }
 
 header {
-  background: var(--lightpink);
   padding: 20px, 10%;
   display: Flex;
   justify-content: space-between;
