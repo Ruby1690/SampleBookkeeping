@@ -39,11 +39,15 @@ header {
 
 nav {
   gap: 25px;
+  display: flex;
 }  
 
 nav a {
   text-decoration: none;
   color: var(--text);
   font-weight: 600;
+}
 
+#about {
+  background: var(--darkpink);
 }
