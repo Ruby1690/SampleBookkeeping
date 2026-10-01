@@ -48,6 +48,10 @@ nav a {
   font-weight: 600;
 }
 
+nav a:hover {
+  color: var(--darkpink);
+}
+
 #about {
-  background: var(--darkpink);
+  background: var(--lightpink);
 }
