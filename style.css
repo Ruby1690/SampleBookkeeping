@@ -7,7 +7,7 @@
 }
 
 * {
-  margin: auto;
+  margin: 0;
   padding: 0;
   box-sizing: border-box; 
 }
@@ -21,7 +21,7 @@ body {
 }
 
 header {
-  padding: 20px, 10%;
+  padding: 20px 10%;
   display: Flex;
   justify-content: space-between;
   align-items: center;
@@ -38,7 +38,7 @@ header {
 }
 
 nav {
-  gap: 25px;
+  gap: 40px;
   display: flex;
 }  
 
