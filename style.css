@@ -34,5 +34,10 @@ header {
 .logo {
   font-size: 24px;
   font-weight: bold;
+  color: var(--lightpink);
 
 }
+
+nav {
+  gap: 25px;
+}  
