@@ -52,6 +52,10 @@ nav a:hover {
   color: var(--darkpink);
 }
 
+section {
+  padding: 80px 18%;
+}
+
 #about {
   background: var(--lightpink);
 }
