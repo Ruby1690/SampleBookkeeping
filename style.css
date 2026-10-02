@@ -91,7 +91,7 @@ section {
   border-radius: 50%;
   border: 2px solid white;
   overflow: hidden;
-  *display: flex;
+  display: flex;
   justify-content: center;
   align-items: center;
   
