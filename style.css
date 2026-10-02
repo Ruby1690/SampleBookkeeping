@@ -50,7 +50,7 @@ nav a {
   font-weight: 600;
 }
 
-nav a: hover {
+nav a:hover {
   color: var(--darkpink);
 }
 
@@ -91,9 +91,9 @@ section {
   border-radius: 50%;
   border: 2px solid white;
   overflow: hidden;
-  /*display: flex;
+  *display: flex;
   justify-content: center;
-  align-items: center;*/
+  align-items: center;
   
 }
 .photo-frame img {
