@@ -91,6 +91,10 @@ section {
   border-radius: 50%;
   border: 2px solid white;
   overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
 }
 .photo-frame img {
  max-width: 100%;
