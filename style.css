@@ -90,10 +90,8 @@ section {
   border-radius: 50%;
   border: 2px solid white;
   overflow: hidden;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0 auto 20px;
+ 
+  
   
 }
 .photo-frame img {
