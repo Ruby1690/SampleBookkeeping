@@ -1,6 +1,6 @@
 :root {
   --background: FDF4D2;
-  --secbackground: B0CDE6;
+  --aboutcolor: B0CDE6;
   --lightpink: #FF7DB0;
   --darkpink: #FF0087;
   --text: #946D6D;
@@ -58,5 +58,5 @@ section {
 }
 
 #about {
-  background: var(--secbackground);
+  background: var(--aboutcolor);
 }
