@@ -50,7 +50,7 @@ nav a {
   font-weight: 600;
 }
 
-nav a:hover {
+nav a: hover {
   color: var(--darkpink);
 }
 
@@ -60,8 +60,11 @@ section {
 
 #about {
   background: var(--aboutcolor);
-  padding; 58px 8%;
-  align-items: center;
+  padding: 58px 8%;
+  }
+#about h1{
+  margin: 0 auto 20px;
+  text-align: center;
   font-size: 30px;
   color: var(--text);
 }
@@ -73,6 +76,7 @@ section {
   align-items: center;
   gap: 44px; 
 }
+
 .about-photo {
   flex: 0 0 34%:
   text-align: center;
