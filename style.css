@@ -55,6 +55,7 @@ nav a:hover {
 
 section {
   padding: 80px 18%;
+  scroll-margin-top: 75px;
 }
 
 #about {
