@@ -70,7 +70,7 @@ section {
   margin: auto;
   display: flex;
   max-width: 1140px;
-  align: center;
+  align-items: center;
   gap: 44px; 
 }
 .about-photo {
