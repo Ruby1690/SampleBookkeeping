@@ -105,7 +105,7 @@ section {
 }
 .checkbox {
   display: grid;
-  grid-template-column: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 12px;
   margin-top: 15px;  
 }
