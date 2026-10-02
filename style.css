@@ -59,4 +59,15 @@ section {
 
 #about {
   background: var(--aboutcolor);
+  padding; 58px 8%;
+}
+
+.about-container {
+  margin: auto;
+  display: flex;
+  max-width: 1140px;
+  align: center;
+  gap: 44px;
+  
+
 }
