@@ -106,7 +106,15 @@ section {
 .checkbox{
   display: grid;
   grid-template-column: 1fr 1fr;
-  background-color: #f5f4f4;
   gap: 12px;
   margin-top: 15px;  
 }
+
+.checkitem {
+  background-color: #f5f4f4;
+  padding: 12px 15px;
+  border-radius: 15px;
+  font-weight: bold;
+
+}
+
