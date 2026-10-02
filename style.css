@@ -61,6 +61,9 @@ section {
 #about {
   background: var(--aboutcolor);
   padding; 58px 8%;
+  align-items: center;
+  font-size: 30px;
+  color: var(--text);
 }
 
 .about-container {
