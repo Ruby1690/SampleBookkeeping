@@ -67,7 +67,25 @@ section {
   display: flex;
   max-width: 1140px;
   align: center;
-  gap: 44px;
-  
+  gap: 44px; 
+}
+.about-photo {
+  flex: 0 0 34%:
+  text-align: center;
+  display: flex;
+  flex-direction: column;
 
+}
+.photo-frame {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 2px solid white;
+  overflow: hidden;
+}
+.photo-frame img {
+ max-width: 100%;
+ max-height: 100%;
+ display: block;
+ object-fit: cover;
 }
