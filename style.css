@@ -1,9 +1,10 @@
 :root {
-  --background: #FBEFEF;
-  --darkblue: #00F7FF;
+  --background: FDF4D2;
+  --secbackground: B0CDE6;
   --lightpink: #FF7DB0;
   --darkpink: #FF0087;
-  --text: #40343b;
+  --text: #946D6D;
+  --footerbck: #A290B7;
 }
 
 * {
@@ -33,7 +34,7 @@ header {
 .logo {
   font-size: 24px;
   font-weight: bold;
-  color: var(--lightpink);
+  color: var(--text);
 
 }
 
@@ -57,5 +58,5 @@ section {
 }
 
 #about {
-  background: var(--lightpink);
+  background: var(--secbackground);
 }
