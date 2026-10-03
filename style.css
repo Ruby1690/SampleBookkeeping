@@ -149,6 +149,18 @@ section {
    background: var(--aboutcolor);
    border-radius: 15px;
    padding: 22px;
+  
+}
+.work-vid {
+margin-bottom: 10px;
+
+}
+.work-vid video {
+  width: 100%;
+  display: block;
+  border-radius: 15px;
+  aspect-ratio: 16/9;
+
 }
 
 
