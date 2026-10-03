@@ -136,6 +136,12 @@ section {
 
 }
 
+.work-card {
+   background: var(--aboutcolor);
+   border-radius: 15px;
+   padding: 22px;
+}
+
 
 
 
