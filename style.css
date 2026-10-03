@@ -127,6 +127,11 @@ section {
   color: var(--text);
 }
 
+#works p{
+  margin-bottom: 20px;
+
+}
+
 .sample-work{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
