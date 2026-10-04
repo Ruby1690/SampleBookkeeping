@@ -166,7 +166,12 @@ margin-bottom: 10px;
 .contact {
   background: var(--aboutcolor);
   padding: 58px 8%;
+  align-items:center;
+  text-align: center;
 
+}
+.contact h2 {
+    color: var(--text);
 }
 
 
