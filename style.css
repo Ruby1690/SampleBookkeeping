@@ -163,7 +163,7 @@ margin-bottom: 10px;
 
 }
 
-.contact {
+#contact {
   background: var(--aboutcolor);
   padding: 58px 8%;
   align-items: center;
